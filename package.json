@@ -1,0 +1,26 @@
+{
+  "name": "whistling-rainbows",
+  "version": "1.0.0",
+  "description": "Fire it up and start whistling",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js --harmony"
+  },
+  "author": "Ryan Mitchell <posgarou@gmail.com>",
+  "license": "MIT",
+  "repository": "posgarou/whistling-rainbows",
+  "devDependencies": {
+    "babel-core": "^6.2.1",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.1.18",
+    "css-loader": "^0.23.0",
+    "detect-pitch": "^1.1.0",
+    "html-webpack-plugin": "^1.6.2",
+    "lodash": "^3.10.1",
+    "style-loader": "^0.13.0",
+    "webpack": "^1.12.8"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
