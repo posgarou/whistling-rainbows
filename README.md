@@ -2,7 +2,7 @@
 
 Fire it up and start whistling.
 
-[See it in action](http://whistling-rainbows.bitballoon.com/).
+[See it in action](https://whistling-rainbows.bitballoon.com/).
 
 ## Setup
 
